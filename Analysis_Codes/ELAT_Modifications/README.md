@@ -2,7 +2,7 @@
 
 This repository contains a modified version of the ELAT tool, customized to process and analyze the specific data format from the KU Leuven MOOCs on the edX platform for my Master's thesis.
 
-**Original Tool Source:** [https://github.com/mvallet91/ELAT-Workbench)
+**Original Tool Source:** https://github.com/mvallet91/ELAT-Workbench
 
 ---
 
